@@ -40,7 +40,7 @@ const App = () => {
           return (
             <li key={item.id}>
               <b>Task: </b>
-              {item.task}, Completed:
+              {item.task}, Completedfdvdfgdf:
               {item.isCompleted ? "COMPLETED" : "INCOMPLETE"}
             </li>
           );
