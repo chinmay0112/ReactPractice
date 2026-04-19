@@ -33,7 +33,7 @@ const App = () => {
         checked={completed}
         onChange={(e) => setCompleted(e.target.checked)}
       />
-      <button onClick={() => addTodo(task)}>Add ToDo</button>
+      <button onClick={() => addTodo(task)}>Add ToDoooooo</button>
 
       <ul>
         <li>sdjsdbjfsjdf</li>
